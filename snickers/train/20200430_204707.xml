@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20200430_204707.jpg</filename>
+	<path>/run/media/iriordmb/MULTIBOOT/DataSetTCC/snickers/train/20200430_204707.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snickers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>347</xmin>
+			<ymin>1097</ymin>
+			<xmax>2542</xmax>
+			<ymax>2117</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>catchup-oderich</folder>
+	<filename>20200611_164130.jpg</filename>
+	<path>/run/media/iriordmb/MULTIBOOT/DataSetTCC/catchup-oderich/20200611_164130.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>catchup-oderich</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>776</xmin>
+			<ymin>483</ymin>
+			<xmax>1756</xmax>
+			<ymax>3589</ymax>
+		</bndbox>
+	</object>
+</annotation>
